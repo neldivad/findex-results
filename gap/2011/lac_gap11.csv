@@ -1,0 +1,9 @@
+labeled_question,f_p_yes_adj,m_p_yes_adj,Q1_p_yes_adj,Q2_p_yes_adj,Q3_p_yes_adj,Q4_p_yes_adj,Q5_p_yes_adj,gender_gap,gap1,gap2,gap3,gap4
+Have an account in financial institution?,31.35,25.75,14.44,17.98,24.21,31.8,46.09,5.6,31.65,28.11,21.88,14.29
+Have a debit card?,24.35,18.3,9.25,11.06,16.78,24.66,37.11,6.05,27.86,26.05,20.33,12.45
+Have a credit card?,13.69,11.4,4.33,5.57,9.02,14.08,24.87,2.29,20.54,19.3,15.85,10.79
+Has saved money in past 12 months?,32.5,25.73,16.97,20.69,25.69,31.9,42.81,6.77,25.84,22.12,17.12,10.91
+Has borrowed money from family or friends?,13.6,11.53,11.87,12.2,12.65,12.96,12.26,2.07,0.39,0.06,-0.39,-0.7
+Still paying loan on emergencies?,8.83,7.81,7.39,7.69,8.31,8.44,9.07,1.02,1.68,1.38,0.76,0.63
+Has used mobile phones to receive money?,2.72,1.82,1.53,2.03,2.23,2.24,2.77,0.9,1.24,0.74,0.54,0.53
+Owns a health insurance?,16.7,14.6,8.91,10.15,12.96,17.41,24.89,2.1,15.98,14.74,11.93,7.48

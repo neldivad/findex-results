@@ -1,0 +1,22 @@
+labeled_question,f_p_yes_adj,m_p_yes_adj,Q1_p_yes_adj,Q2_p_yes_adj,Q3_p_yes_adj,Q4_p_yes_adj,Q5_p_yes_adj,gender_gap,gap1,gap2,gap3,gap4
+Has a debit card?,25.06,15.51,9.83,12.6,17.48,23.36,31.98,9.55,22.15,19.38,14.5,8.62
+Have used debit card recently?,9.55,5.26,2.67,4.05,5.97,8.01,13.41,4.29,10.74,9.36,7.44,5.4
+Have used mobile/internet banking recently?,5.66,3.09,1.89,2.74,3.8,4.53,7.4,2.57,5.51,4.66,3.6,2.87
+Have used mobile/internet to check funds?,7.25,3.28,2.67,2.5,4.28,5.3,9.45,3.97,6.78,6.95,5.17,4.15
+Has credit card?,3.09,1.65,1.43,1.06,1.87,2.1,4.49,1.44,3.06,3.43,2.62,2.39
+Have used credit card recently?,2.2,1.07,0.72,0.5,1.08,1.44,3.63,1.13,2.91,3.13,2.55,2.19
+Have deposit activity recently?,28.59,20.83,15.69,17.09,21.88,26.62,36.61,7.76,20.92,19.52,14.73,9.99
+Have withdrawal activity recently?,29.38,19.95,15.43,16.91,21.28,26.73,36.9,9.43,21.47,19.99,15.62,10.17
+Borrowed money for emergency recently?,12.69,12.4,14.97,14.22,11.51,12.15,10.6,0.29,-4.37,-3.62,-0.91,-1.55
+Borrowed from formal institutions?,8.46,8.07,8.59,7.24,8.14,8.56,8.59,0.39,0.0,1.35,0.45,0.03
+Borrowed from close relationships?,33.09,28.11,33.59,31.0,30.08,30.04,28.26,4.98,-5.33,-2.74,-1.82,-1.78
+Have emergency funds ready in a month?,59.81,45.7,31.58,42.55,51.66,59.3,69.21,14.11,37.63,26.66,17.55,9.91
+Received wage payment from employer recently?,28.47,11.31,16.86,16.72,16.82,20.1,24.25,17.16,7.39,7.53,7.43,4.15
+Received wages through banking?,8.01,3.3,2.67,2.68,3.38,5.69,11.22,4.71,8.55,8.54,7.84,5.53
+Received financial support from gov recently?,6.88,6.87,8.92,8.17,6.21,5.19,6.35,0.01,-2.57,-1.82,0.14,1.16
+Received gov transfers by banking?,4.55,4.53,5.34,3.43,3.56,4.03,6.01,0.02,0.67,2.58,2.45,1.98
+Owns a mobile phone?,79.32,58.4,60.09,62.76,64.68,72.72,76.85,20.92,16.76,14.09,12.17,4.13
+Owns a formal banking account?,58.27,49.45,48.37,50.72,50.99,53.95,61.19,8.82,12.82,10.47,10.2,7.24
+Owns a mobile money account?,7.72,2.02,2.54,2.74,3.92,5.8,7.3,5.7,4.76,4.56,3.38,1.5
+Has saved money recently?,37.72,33.38,25.0,28.82,33.51,38.05,47.26,4.34,22.26,18.44,13.75,9.21
+Has borrowed money recently?,46.18,40.21,44.53,43.67,41.65,42.63,42.67,5.97,-1.86,-1.0,1.02,0.04

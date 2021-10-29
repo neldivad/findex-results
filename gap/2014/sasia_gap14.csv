@@ -1,0 +1,18 @@
+labeled_question,f_p_yes_adj,m_p_yes_adj,Q1_p_yes_adj,Q2_p_yes_adj,Q3_p_yes_adj,Q4_p_yes_adj,Q5_p_yes_adj,gender_gap,gap1,gap2,gap3,gap4
+Have an account?,50.82,38.56,32.7,40.47,39.75,45.64,58.1,12.26,25.4,17.63,18.35,12.46
+Has a debit card?,22.88,11.5,6.42,9.96,10.86,17.6,33.59,11.38,27.17,23.63,22.73,15.99
+Have used debit card in past 12 months?,12.23,4.29,2.05,4.55,4.62,7.92,17.79,7.94,15.74,13.24,13.17,9.87
+Has a credit card?,3.73,1.19,1.02,1.94,1.68,1.93,4.72,2.54,3.7,2.78,3.04,2.79
+Have used credit card in past 12 months?,2.98,0.84,0.82,1.48,1.39,1.5,3.59,2.14,2.77,2.11,2.2,2.09
+Has incoming deposit activity?,29.92,20.31,13.79,18.67,20.28,27.5,38.61,9.61,24.82,19.94,18.33,11.11
+Has withdrawal activity?,28.9,18.56,11.67,18.21,17.79,25.58,38.23,10.34,26.56,20.02,20.44,12.65
+Have made transactions on mobile?,2.62,1.08,0.96,1.08,1.39,1.93,3.25,1.54,2.29,2.17,1.86,1.32
+Have made transaction on internet?,1.51,0.73,0.34,0.51,0.98,0.86,2.38,0.78,2.04,1.87,1.4,1.52
+Borrowed money from financial institutions?,9.45,8.03,7.17,9.45,8.2,9.84,8.66,1.42,1.49,-0.79,0.46,-1.18
+Borrowed money from close relationships?,28.63,23.28,26.48,27.66,27.73,27.29,21.77,5.35,-4.71,-5.89,-5.96,-5.52
+Received wage payment recently?,27.32,10.94,13.79,16.22,18.37,21.56,22.86,16.38,9.07,6.64,4.49,1.3
+Received wage payment by banking?,7.71,3.3,1.3,2.28,3.24,6.05,11.77,4.41,10.47,9.49,8.53,5.72
+Received gov transfers recently?,5.91,6.34,6.96,6.83,6.47,5.24,5.54,-0.43,-1.42,-1.29,-0.93,0.3
+Received gov transfers by banking?,2.33,2.03,2.12,2.05,1.73,2.51,2.38,0.3,0.26,0.33,0.65,-0.13
+Has saved money recently?,41.84,36.36,25.67,32.27,38.07,42.27,50.87,5.48,25.2,18.6,12.8,8.6
+Has borrowed money recently?,46.09,40.05,44.64,45.76,44.19,44.57,37.79,6.04,-6.85,-7.97,-6.4,-6.78
