@@ -1,0 +1,4 @@
+labeled_question,f_p_yes_adj,m_p_yes_adj,Q1_p_yes_adj,Q2_p_yes_adj,Q3_p_yes_adj,Q4_p_yes_adj,Q5_p_yes_adj,gender_gap,gap1,gap2,gap3,gap4
+Have a debit card?,11.76,4.88,2.11,3.02,4.65,8.9,18.02,6.88,15.91,15.0,13.37,9.12
+Has a debit card?,22.88,11.5,6.42,9.96,10.86,17.6,33.59,11.38,27.17,23.63,22.73,15.99
+Has a debit card?,25.06,15.51,9.83,12.6,17.48,23.36,31.98,9.55,22.15,19.38,14.5,8.62

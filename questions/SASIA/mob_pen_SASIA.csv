@@ -1,0 +1,5 @@
+labeled_question,f_p_yes_adj,m_p_yes_adj,Q1_p_yes_adj,Q2_p_yes_adj,Q3_p_yes_adj,Q4_p_yes_adj,Q5_p_yes_adj,gender_gap,gap1,gap2,gap3,gap4
+Has used mobile phones to receive money?,4.34,1.79,1.05,1.64,3.16,3.53,4.75,2.55,3.7,3.11,1.59,1.22
+Have made transactions on mobile?,2.62,1.08,0.96,1.08,1.39,1.93,3.25,1.54,2.29,2.17,1.86,1.32
+Have made transaction on internet?,1.51,0.73,0.34,0.51,0.98,0.86,2.38,0.78,2.04,1.87,1.4,1.52
+Have used mobile/internet banking recently?,5.66,3.09,1.89,2.74,3.8,4.53,7.4,2.57,5.51,4.66,3.6,2.87

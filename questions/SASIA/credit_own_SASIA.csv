@@ -1,0 +1,4 @@
+labeled_question,f_p_yes_adj,m_p_yes_adj,Q1_p_yes_adj,Q2_p_yes_adj,Q3_p_yes_adj,Q4_p_yes_adj,Q5_p_yes_adj,gender_gap,gap1,gap2,gap3,gap4
+Have a credit card?,2.6,1.1,0.7,1.1,0.93,1.16,4.38,1.5,3.68,3.28,3.45,3.22
+Has a credit card?,3.73,1.19,1.02,1.94,1.68,1.93,4.72,2.54,3.7,2.78,3.04,2.79
+Has credit card?,3.09,1.65,1.43,1.06,1.87,2.1,4.49,1.44,3.06,3.43,2.62,2.39
