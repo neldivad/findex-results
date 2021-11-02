@@ -1,0 +1,4 @@
+labeled_question,f_p_yes_adj,m_p_yes_adj,Q1_p_yes_adj,Q2_p_yes_adj,Q3_p_yes_adj,Q4_p_yes_adj,Q5_p_yes_adj,gender_gap,gap1,gap2,gap3,gap4
+Have an account in financial institution?,87.38,84.08,80.52,83.55,84.77,87.37,89.51,3.3,8.99,5.96,4.74,2.14
+Have an account?,95.67,93.71,90.72,93.4,94.31,95.87,97.24,1.96,6.52,3.84,2.93,1.37
+Owns an account?,96.27,94.84,92.03,94.02,95.33,96.37,98.31,1.43,6.28,4.29,2.98,1.94
