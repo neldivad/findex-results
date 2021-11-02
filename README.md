@@ -1,6 +1,9 @@
 # findex-results
 Output from World Bank's Findex Data
 
+_The reference citation for the Global Findex data is as follows: 
+Demirguc-Kunt, Asli and L. Klapper. 2012. "Measuring Financial Inclusion: The Global Findex." Policy Research Working Paper 6025, World Bank, Washington, D.C._
+
 # Documentation and Data
 ## 2011:
 1. [Data.](https://microdata.worldbank.org/index.php/catalog/1097/get-microdata)
